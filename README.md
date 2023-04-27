@@ -15,15 +15,12 @@ The CNN-Small model was used to train on a dataset of diseased rice images, usin
  An illustration of the training dataset is shown in the figure below:
  ![Sample images in dataset](sample_dataset_images.png)
  
-**Contributors:**
+### Contributors:
  * Quach Luyl Da, FPT University, VietNam
- 
  * Nguyen Quoc Khang, FPT University, VietNam
- 
  * Nguyen Quynh Anh, FPT University, VietNam
- 
  * Tran Ngoc Hoang, FPT University, VietNam 
  
-Paper: Updating
+Paper: *Updating...*
 
 [Dataset Leaf Rice](https://github.com/EnalisUs/Standard-Mini-Leaf-Rice-Diesease-Datasets)
