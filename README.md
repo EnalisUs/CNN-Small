@@ -4,7 +4,7 @@ CNN-Small architecture has been proven to be effective in handling small-sized a
 
 <div align="center">
 
-![CNN Struture](https://github.com/EnalisUs/CNN-Small/blob/main/illustration_structure.png)
+![CNN Struture](illustration_structure.png)
 
 </div>
 
@@ -13,7 +13,7 @@ The CNN-Small model was used to train on a dataset of diseased rice images, usin
  The dataset used to train the model includes thousands of diseased and non-diseased rice images, with an accuracy rate of over 95%. By using the CNN-Small model, we can classify diseased rice images quickly and accurately, helping farmers and rice researchers detect and treat rice diseases in a timely manner.
 
  An illustration of the training dataset is shown in the figure below:
- ![Sample images in dataset](https://github.com/EnalisUs/CNN-Small/blob/main/sample_dataset_images.png)
+ ![Sample images in dataset](sample_dataset_images.png)
  
 **Contributors:**
  * Quach Luyl Da, FPT University, VietNam
